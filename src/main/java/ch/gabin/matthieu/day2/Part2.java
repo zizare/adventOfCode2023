@@ -7,7 +7,6 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 public class Part2 {
-
 	static Map<String, Integer> MAX_BY_COLOR = Map.of("red", 12, "green", 13, "blue", 14);
 
 	public static void main(String[] args) {
